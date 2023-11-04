@@ -6,5 +6,18 @@ Especialización de Obra
 *  Virginia Roldan
 *  Florencia Paez
 
+ ## Gerencia ##
+
+ ## Compras ##
+
+ ## Oficina Tecnica ##
+
+ ## Obra ##
+
+ ## RRHH ##
+
+ ## Gestion de Calidad ##
+ 
+
 
   
