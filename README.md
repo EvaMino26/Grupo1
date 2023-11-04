@@ -32,6 +32,6 @@ Especialización de Obra
  * Verificacion del proceso del producto
  * Verificacion del proceso del servicio
  
-
+image: ![flujodetrabajodeldiaviernes](Fotos/foto.jpeg) 
 
   
